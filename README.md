@@ -34,5 +34,11 @@ En el siguiente link se puede ver el Dashboard en Power BI: [Dashboard.pbix](Das
 ## `Conclusiones`
 
 - Durante este año (1999) se realizaron un total de 444,448 llamadas. De las cuales el 79.46 % se completaron y el 20.54% no se completaron 
-- Los meses de Agosto, Noviembre y Diciembre son los meses con mayor volumen de llamadas
+- Los meses de Agosto, Noviembre y Diciembre son los meses con mayor volumen de llamadas.
 - El tiempo promedio de espera de las llamadas es de 59 segundos.
+- El mayor trafico de llamadas ocurre durante las 9:15 am y 11:45 am.
+- Los clientes regulares en promedio tienen menos tiempo de espera en comparacion con los clientes de alta prioridad. Esto es opuesto a lo que deberia pasar pues los clientes de alta prioridad deberian ser atendidos mas rapido.
+- El 20.54 % de las llamadas no se completan ya sea por tiempo de espera o por caida de la llamada, este es un porcentaje muy alto.
+- El dia con mayor volumen de llamadas es el domingo por lo tanto se deberian tener mas agentes ese dia. Los dias con menor volumen son viernes y sabado.
+- Los meses con mayor trafico son agosto y diciembre.
+- De los 6 VRU (unidad de respuesta de voz) instalados solo estan funcionando 2. Es necesario habilitar las VRU para aumentar la eficiencia en la atencion al cliente
